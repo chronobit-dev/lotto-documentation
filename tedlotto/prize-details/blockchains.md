@@ -11,6 +11,15 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | Minimum prize | 3 $EVMOs (\~$6)                                                                                                                |
 | Portal        | [https://lotto.tedcrypto.io/lotto/evmos](https://lotto.tedcrypto.io/lotto/evmos)                                               |
 
+### Juno ($JUNO)
+
+| Setting Name  | Value                                                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Wallet        | [juno1nsnhn0y0vsjq8j70z6yfxp2xk4rsjrzmn04g4h](https://www.mintscan.io/juno/account/juno1nsnhn0y0vsjq8j70z6yfxp2xk4rsjrzmn04g4h) |
+| Ticket Price  | 6 $JUNO                                                                                                                         |
+| Minimum prize | 1 $JUNO (\~$3)                                                                                                                  |
+| Portal        | [https://lotto.tedcrypto.io/lotto/juno](https://lotto.tedcrypto.io/lotto/juno)                                                  |
+
 ### Crypto.com ($CRO)
 
 | Setting Name  | Value                                                                                                                               |
