@@ -37,6 +37,7 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | Setting name                          | Value                                                                                                                                    |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Wallet                                | [bitsong1k652lq822mnvu9furfmmq3wsmufvvyg9pzljrq](https://www.mintscan.io/bitsong/account/bitsong1k652lq822mnvu9furfmmq3wsmufvvyg9pzljrq) |
+| Validator(s)                          | Tedcrypto.io 🧸 \| TedLotto                                                                                                              |
 | Ticket Stake (min stake for a ticket) | 100 $BTSG                                                                                                                                |
 | Minimum prize                         | 35 $BTSG                                                                                                                                 |
 | Portal                                | [https://lotto.tedcrypto.io/bitsong](https://lotto.tedcrypto.io/bitsong)                                                                 |
