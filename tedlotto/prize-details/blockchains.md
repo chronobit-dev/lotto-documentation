@@ -22,6 +22,16 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | Minimum prize                         | 0.3 $JUNO (\~$2)                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/juno](https://lotto.tedcrypto.io/juno)                                                              |
 
+### Osmosis ($OSMO)
+
+| Setting name                          | Value                                                                                                                              |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Wallet                                | [osmo16j5hsdrcaa6950ks0rf944rgmncukl74z8k8ea](https://www.mintscan.io/osmosis/account/osmo16j5hsdrcaa6950ks0rf944rgmncukl74z8k8ea) |
+| Validator(s)                          | SmartNodes                                                                                                                         |
+| Ticket Stake (min stake for a ticket) | 15 $OSMO                                                                                                                           |
+| Minimum prize                         | 1 $OSMO (\~$1)                                                                                                                     |
+| Portal                                | [https://lotto.tedcrypto.io/osmosis](https://lotto.tedcrypto.io/osmosis)                                                           |
+
 ### Crypto.com ($CRO)
 
 | Setting Name                          | Value                                                                                                                               |
@@ -58,8 +68,8 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Wallet                                | [cerberus1m0gxvgqk052xq0fc465cmycxkfz5pxzdvxq27x](https://www.mintscan.io/cerberus/account/cerberus1m0gxvgqk052xq0fc465cmycxkfz5pxzdvxq27x) |
 | Validator(s)                          | Tedcrypto.io 🧸 \| TedLotto                                                                                                                 |
-| Ticket Stake (min stake for a ticket) | 100K $CRBRU                                                                                                                                 |
-| Minimum prize                         | 20K $CRBRU                                                                                                                                  |
+| Ticket Stake (min stake for a ticket) | 200K $CRBRU                                                                                                                                 |
+| Minimum prize                         | 10K $CRBRU                                                                                                                                  |
 | Portal                                | [https://lotto.tedcrypto.io/cerberus](https://lotto.tedcrypto.io/cerberus)                                                                  |
 
 #### Extraordinary draws
