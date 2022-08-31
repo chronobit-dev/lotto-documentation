@@ -22,6 +22,16 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | Minimum prize                         | 0.3 $JUNO (\~$2)                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/juno](https://lotto.tedcrypto.io/juno)                                                              |
 
+### Akash ($AKT)
+
+| Setting name                          | Value                                                                                                                              |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Wallet                                | [akash1phskre56344dtx5k0ph9sp8n4lsjlrlgdwpv9q](https://www.mintscan.io/akash/account/akash1phskre56344dtx5k0ph9sp8n4lsjlrlgdwpv9q) |
+| Validator(s)                          | SmartNodes                                                                                                                         |
+| Ticket Stake (min stake for a ticket) | 80                                                                                                                                 |
+| Minimum prize                         | 1                                                                                                                                  |
+| Portal                                | [https://lotto.tedcrypto.io/akash](https://lotto.tedcrypto.io/akash)                                                               |
+
 ### Osmosis ($OSMO)
 
 | Setting name                          | Value                                                                                                                              |
