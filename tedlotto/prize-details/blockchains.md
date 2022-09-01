@@ -42,6 +42,16 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | Minimum prize                         | 1 $OSMO (\~$1)                                                                                                                     |
 | Portal                                | [https://lotto.tedcrypto.io/osmosis](https://lotto.tedcrypto.io/osmosis)                                                           |
 
+### Agoric ($BLD)
+
+| Setting name                          | Value                                                                                                                                 |   |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | - |
+| Wallet                                | [agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4](https://bigdipper.live/agoric/accounts/agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4) |   |
+| Validator(s)                          | Stake2Earn                                                                                                                            |   |
+| Ticket Stake (min stake for a ticket) | 50 $BLD                                                                                                                               |   |
+| Minimum prize                         | 1 $BLD                                                                                                                                |   |
+| Portal                                | https://lotto.tedcrypto.io/agoric                                                                                                     |   |
+
 ### Crypto.com ($CRO)
 
 | Setting Name                          | Value                                                                                                                               |
