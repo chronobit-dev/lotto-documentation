@@ -2,6 +2,62 @@
 
 Tedcrypto created a sub-system for each lotto on the different blockchains the lotto runs on. This is to give a better experience to everyone participating whilst securing the lotto health system.
 
+### Akash ($AKT)
+
+| Setting name                          | Value                                                                                                                              |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Wallet                                | [akash1phskre56344dtx5k0ph9sp8n4lsjlrlgdwpv9q](https://www.mintscan.io/akash/account/akash1phskre56344dtx5k0ph9sp8n4lsjlrlgdwpv9q) |
+| Validator(s)                          | SmartNodes                                                                                                                         |
+| Ticket Stake (min stake for a ticket) | 80                                                                                                                                 |
+| Minimum prize                         | 1                                                                                                                                  |
+| Portal                                | [https://lotto.tedcrypto.io/akash](https://lotto.tedcrypto.io/akash)                                                               |
+
+### Agoric ($BLD)
+
+| Setting name                          | Value                                                                                                                                 |   |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | - |
+| Wallet                                | [agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4](https://bigdipper.live/agoric/accounts/agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4) |   |
+| Validator(s)                          | Stake2Earn                                                                                                                            |   |
+| Ticket Stake (min stake for a ticket) | 50 $BLD                                                                                                                               |   |
+| Minimum prize                         | 1 $BLD                                                                                                                                |   |
+| Portal                                | [https://lotto.tedcrypto.io/agoric](https://lotto.tedcrypto.io/agoric)                                                                |   |
+
+### Bitsong ($BTSG)
+
+| Setting name                          | Value                                                                                                                                    |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Wallet                                | [bitsong1k652lq822mnvu9furfmmq3wsmufvvyg9pzljrq](https://www.mintscan.io/bitsong/account/bitsong1k652lq822mnvu9furfmmq3wsmufvvyg9pzljrq) |
+| Validator(s)                          | Tedcrypto.io 🧸 \| TedLotto                                                                                                              |
+| Ticket Stake (min stake for a ticket) | 100 $BTSG                                                                                                                                |
+| Minimum prize                         | 35 $BTSG                                                                                                                                 |
+| Portal                                | [https://lotto.tedcrypto.io/bitsong](https://lotto.tedcrypto.io/bitsong)                                                                 |
+
+### Cerberus ($CRBRU)
+
+| Setting name                          | Value                                                                                                                                       |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wallet                                | [cerberus1m0gxvgqk052xq0fc465cmycxkfz5pxzdvxq27x](https://www.mintscan.io/cerberus/account/cerberus1m0gxvgqk052xq0fc465cmycxkfz5pxzdvxq27x) |
+| Validator(s)                          | Tedcrypto.io 🧸 \| TedLotto                                                                                                                 |
+| Ticket Stake (min stake for a ticket) | 200K $CRBRU                                                                                                                                 |
+| Minimum prize                         | 10K $CRBRU                                                                                                                                  |
+| Portal                                | [https://lotto.tedcrypto.io/cerberus](https://lotto.tedcrypto.io/cerberus)                                                                  |
+
+#### Extraordinary draws
+
+They are one-of-time draws that Tedcrypto might decide to run on special dates or after tweaking the settings above.
+
+&#x20;\- 08/05/2022 : Extraordinary draw for our $CRBRU delegators
+
+### Crypto.com ($CRO)
+
+| Setting Name                          | Value                                                                                                                               |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Wallet                                | [cro1suef2nl54zdu5tv0mh522g5j0nu0legvzz34v9](https://www.mintscan.io/crypto-org/account/cro1suef2nl54zdu5tv0mh522g5j0nu0legvzz34v9) |
+| Validator(s)                          | CROnqueror                                                                                                                          |
+| Ticket Stake (min stake for a ticket) | 200 $CRO                                                                                                                            |
+| Minimum prize                         | 10 $CRO                                                                                                                             |
+| Portal                                | [https://lotto.tedcrypto.io/cryptoorgchain](https://lotto.tedcrypto.io/cryptoorgchain)                                              |
+
 ### Evmos ($EVMOS)
 
 | Setting Name                          | Value                                                                                                                          |
@@ -22,16 +78,6 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | Minimum prize                         | 0.3 $JUNO (\~$2)                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/juno](https://lotto.tedcrypto.io/juno)                                                              |
 
-### Akash ($AKT)
-
-| Setting name                          | Value                                                                                                                              |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Wallet                                | [akash1phskre56344dtx5k0ph9sp8n4lsjlrlgdwpv9q](https://www.mintscan.io/akash/account/akash1phskre56344dtx5k0ph9sp8n4lsjlrlgdwpv9q) |
-| Validator(s)                          | SmartNodes                                                                                                                         |
-| Ticket Stake (min stake for a ticket) | 80                                                                                                                                 |
-| Minimum prize                         | 1                                                                                                                                  |
-| Portal                                | [https://lotto.tedcrypto.io/akash](https://lotto.tedcrypto.io/akash)                                                               |
-
 ### Osmosis ($OSMO)
 
 | Setting name                          | Value                                                                                                                              |
@@ -41,46 +87,6 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | Ticket Stake (min stake for a ticket) | 15 $OSMO                                                                                                                           |
 | Minimum prize                         | 1 $OSMO (\~$1)                                                                                                                     |
 | Portal                                | [https://lotto.tedcrypto.io/osmosis](https://lotto.tedcrypto.io/osmosis)                                                           |
-
-### Agoric ($BLD)
-
-| Setting name                          | Value                                                                                                                                 |   |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | - |
-| Wallet                                | [agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4](https://bigdipper.live/agoric/accounts/agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4) |   |
-| Validator(s)                          | Stake2Earn                                                                                                                            |   |
-| Ticket Stake (min stake for a ticket) | 50 $BLD                                                                                                                               |   |
-| Minimum prize                         | 1 $BLD                                                                                                                                |   |
-| Portal                                | [https://lotto.tedcrypto.io/agoric](https://lotto.tedcrypto.io/agoric)                                                                |   |
-
-### Stargaze($STARS)
-
-| Setting Name                         | Value                                                                                                                                 |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Wallet                               | [stars18u3wyvmmh2lq008gtwdsqcvj3m22aqyxq0s0xc](https://www.mintscan.io/stargaze/account/stars18u3wyvmmh2lq008gtwdsqcvj3m22aqyxq0s0xc) |
-| Validator(s)                         | smartNodes                                                                                                                            |
-| Ticket Sake (min stake for a ticket) | 500 $STARS                                                                                                                            |
-| Minimum prize                        | 50 $STARS                                                                                                                             |
-| Portal                               | [https://lotto.tedcrypto.io/stargaze](https://lotto.tedcrypto.io/stargaze)                                                            |
-
-### Crypto.com ($CRO)
-
-| Setting Name                          | Value                                                                                                                               |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Wallet                                | [cro1suef2nl54zdu5tv0mh522g5j0nu0legvzz34v9](https://www.mintscan.io/crypto-org/account/cro1suef2nl54zdu5tv0mh522g5j0nu0legvzz34v9) |
-| Validator(s)                          | CROnqueror                                                                                                                          |
-| Ticket Stake (min stake for a ticket) | 200 $CRO                                                                                                                            |
-| Minimum prize                         | 10 $CRO                                                                                                                             |
-| Portal                                | [https://lotto.tedcrypto.io/cryptoorgchain](https://lotto.tedcrypto.io/cryptoorgchain)                                              |
-
-### Bitsong ($BTSG)
-
-| Setting name                          | Value                                                                                                                                    |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Wallet                                | [bitsong1k652lq822mnvu9furfmmq3wsmufvvyg9pzljrq](https://www.mintscan.io/bitsong/account/bitsong1k652lq822mnvu9furfmmq3wsmufvvyg9pzljrq) |
-| Validator(s)                          | Tedcrypto.io 🧸 \| TedLotto                                                                                                              |
-| Ticket Stake (min stake for a ticket) | 100 $BTSG                                                                                                                                |
-| Minimum prize                         | 35 $BTSG                                                                                                                                 |
-| Portal                                | [https://lotto.tedcrypto.io/bitsong](https://lotto.tedcrypto.io/bitsong)                                                                 |
 
 ### Sentinel ($DVPN)
 
@@ -92,19 +98,13 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | Minimum prize                         | 1K $DVPN                                                                                                                            |
 | Lotto link                            | [https://lotto.tedcrypto.io/sentinel](https://lotto.tedcrypto.io/sentinel)                                                          |
 
-### Cerberus ($CRBRU)
+### Stargaze($STARS)
 
-| Setting name                          | Value                                                                                                                                       |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Wallet                                | [cerberus1m0gxvgqk052xq0fc465cmycxkfz5pxzdvxq27x](https://www.mintscan.io/cerberus/account/cerberus1m0gxvgqk052xq0fc465cmycxkfz5pxzdvxq27x) |
-| Validator(s)                          | Tedcrypto.io 🧸 \| TedLotto                                                                                                                 |
-| Ticket Stake (min stake for a ticket) | 200K $CRBRU                                                                                                                                 |
-| Minimum prize                         | 10K $CRBRU                                                                                                                                  |
-| Portal                                | [https://lotto.tedcrypto.io/cerberus](https://lotto.tedcrypto.io/cerberus)                                                                  |
-
-#### Extraordinary draws
-
-They are one-of-time draws that Tedcrypto might decide to run on special dates or after tweaking the settings above.
-
-&#x20;\- 08/05/2022 : Extraordinary draw for our $CRBRU delegators
+| Setting Name                         | Value                                                                                                                                 |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Wallet                               | [stars18u3wyvmmh2lq008gtwdsqcvj3m22aqyxq0s0xc](https://www.mintscan.io/stargaze/account/stars18u3wyvmmh2lq008gtwdsqcvj3m22aqyxq0s0xc) |
+| Validator(s)                         | smartNodes                                                                                                                            |
+| Ticket Sake (min stake for a ticket) | 500 $STARS                                                                                                                            |
+| Minimum prize                        | 50 $STARS                                                                                                                             |
+| Portal                               | [https://lotto.tedcrypto.io/stargaze](https://lotto.tedcrypto.io/stargaze)                                                            |
 
