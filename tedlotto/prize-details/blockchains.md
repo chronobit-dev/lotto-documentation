@@ -100,11 +100,11 @@ They are one-of-time draws that Tedcrypto might decide to run on special dates o
 
 ### Stargaze($STARS)
 
-| Setting Name                         | Value                                                                                                                                 |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Wallet                               | [stars18u3wyvmmh2lq008gtwdsqcvj3m22aqyxq0s0xc](https://www.mintscan.io/stargaze/account/stars18u3wyvmmh2lq008gtwdsqcvj3m22aqyxq0s0xc) |
-| Validator(s)                         | smartNodes                                                                                                                            |
-| Ticket Sake (min stake for a ticket) | 500 $STARS                                                                                                                            |
-| Minimum prize                        | 50 $STARS                                                                                                                             |
-| Portal                               | [https://lotto.tedcrypto.io/stargaze](https://lotto.tedcrypto.io/stargaze)                                                            |
+| Setting Name                          | Value                                                                                                                                 |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Wallet                                | [stars18u3wyvmmh2lq008gtwdsqcvj3m22aqyxq0s0xc](https://www.mintscan.io/stargaze/account/stars18u3wyvmmh2lq008gtwdsqcvj3m22aqyxq0s0xc) |
+| Validator(s)                          | smartNodes                                                                                                                            |
+| Ticket Stake (min stake for a ticket) | 500 $STARS                                                                                                                            |
+| Minimum prize                         | 50 $STARS                                                                                                                             |
+| Portal                                | [https://lotto.tedcrypto.io/stargaze](https://lotto.tedcrypto.io/stargaze)                                                            |
 
