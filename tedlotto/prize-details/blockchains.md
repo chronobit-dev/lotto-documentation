@@ -50,7 +50,17 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | Validator(s)                          | Stake2Earn                                                                                                                            |   |
 | Ticket Stake (min stake for a ticket) | 50 $BLD                                                                                                                               |   |
 | Minimum prize                         | 1 $BLD                                                                                                                                |   |
-| Portal                                | https://lotto.tedcrypto.io/agoric                                                                                                     |   |
+| Portal                                | [https://lotto.tedcrypto.io/agoric](https://lotto.tedcrypto.io/agoric)                                                                |   |
+
+### Stargaze($STARS)
+
+| Setting Name                         | Value                                                                                                                                 |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Wallet                               | [stars18u3wyvmmh2lq008gtwdsqcvj3m22aqyxq0s0xc](https://www.mintscan.io/stargaze/account/stars18u3wyvmmh2lq008gtwdsqcvj3m22aqyxq0s0xc) |
+| Validator(s)                         | smartNodes                                                                                                                            |
+| Ticket Sake (min stake for a ticket) | 500 $STARS                                                                                                                            |
+| Minimum prize                        | 50 $STARS                                                                                                                             |
+| Portal                               | [https://lotto.tedcrypto.io/stargaze](https://lotto.tedcrypto.io/stargaze)                                                            |
 
 ### Crypto.com ($CRO)
 
