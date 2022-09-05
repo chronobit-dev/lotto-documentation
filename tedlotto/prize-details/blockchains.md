@@ -37,7 +37,7 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | Setting name                          | Value                                                                                                                                    |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [bitsong1k652lq822mnvu9furfmmq3wsmufvvyg9pzljrq](https://www.mintscan.io/bitsong/account/bitsong1k652lq822mnvu9furfmmq3wsmufvvyg9pzljrq) |
-| Validator(s)                          | Tedcrypto.io 🧸 \                                                                                                                        | TedLotto                                                                                                              |
+| Validator(s)                          | Tedcrypto.io 🧸                                                                                                                          |
 | Ticket Stake (min stake for a ticket) | 100 $BTSG                                                                                                                                |
 | Minimum prize                         | 35 $BTSG                                                                                                                                 |
 | Portal                                | [https://lotto.tedcrypto.io/bitsong](https://lotto.tedcrypto.io/bitsong)                                                                 |
@@ -47,7 +47,7 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | Setting name                          | Value                                                                                                                                       |
 |---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [cerberus1m0gxvgqk052xq0fc465cmycxkfz5pxzdvxq27x](https://www.mintscan.io/cerberus/account/cerberus1m0gxvgqk052xq0fc465cmycxkfz5pxzdvxq27x) |
-| Validator(s)                          | Tedcrypto.io 🧸 \                                                                                                                           | TedLotto                                                                                                                 |
+| Validator(s)                          | Tedcrypto.io 🧸                                                                                                                             |                                                                                                               |
 | Ticket Stake (min stake for a ticket) | 200K $CRBRU                                                                                                                                 |
 | Minimum prize                         | 10K $CRBRU                                                                                                                                  |
 | Portal                                | [https://lotto.tedcrypto.io/cerberus](https://lotto.tedcrypto.io/cerberus)                                                                  |
@@ -73,7 +73,7 @@ They are one-of-time draws that Tedcrypto might decide to run on special dates o
 | Setting Name                          | Value                                                                                                                          |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [evmos1qddkl46m82ltd4r8nlhk88w9pshy9l9hs7lpzy](https://mintscan.io/evmos/account/evmos1qddkl46m82ltd4r8nlhk88w9pshy9l9hs7lpzy) |
-| Validator(s)                          | Tedcrypto.io 🧸 \                                                                                                              | TedLotto                                                                                                    |
+| Validator(s)                          | Tedcrypto.io 🧸                                                                                                                |
 | Ticket Stake (min stake for a ticket) | 10 $EVMOS                                                                                                                      |
 | Minimum prize                         | 3 $EVMOs (\~$6)                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/evmos](https://lotto.tedcrypto.io/evmos)                                                           |
@@ -83,7 +83,7 @@ They are one-of-time draws that Tedcrypto might decide to run on special dates o
 | Setting Name                          | Value                                                                                                                           |
 |---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [juno1nsnhn0y0vsjq8j70z6yfxp2xk4rsjrzmn04g4h](https://www.mintscan.io/juno/account/juno1nsnhn0y0vsjq8j70z6yfxp2xk4rsjrzmn04g4h) |
-| Validator(s)                          | Tedcrypto.io 🧸 \                                                                                                               | TedLotto                                                                                                     |
+| Validator(s)                          | Tedcrypto.io 🧸                                                                                                                 |
 | Ticket Stake (min stake for a ticket) | 6 $JUNO                                                                                                                         |
 | Minimum prize                         | 0.3 $JUNO (\~$2)                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/juno](https://lotto.tedcrypto.io/juno)                                                              |
