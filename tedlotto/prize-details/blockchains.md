@@ -22,6 +22,16 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | Minimum prize                         | 1 $BLD                                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/agoric](https://lotto.tedcrypto.io/agoric)                                                                |
 
+### AssetMantle ($MNTL)
+
+| Setting name                          | Value                                                                                                                                 |   |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | - |
+| Wallet                                | [mantle1p224qamtqhqmg2k3cguwtml2ygk72spk7fxve6](https://www.mintscan.io/asset-mantle/account/mantle1p224qamtqhqmg2k3cguwtml2ygk72spk7fxve6) |   |
+| Validator(s)                          | SmartNodes                                                                                                                            |   |
+| Ticket Stake (min stake for a ticket) | 200 $MNTL                                                                                                                               |   |
+| Minimum prize                         | 10 $MNTL (~$1)                                                                                                                                |   |
+| Portal                                | [https://lotto.tedcrypto.io/assetmantle](https://lotto.tedcrypto.io/assetmantle)                                                                |   |
+
 ### Bitsong ($BTSG)
 
 | Setting name                          | Value                                                                                                                                    |
@@ -86,7 +96,7 @@ They are one-of-time draws that Tedcrypto might decide to run on special dates o
 | Validator(s)                          | Stake2Earn                                                                                                                      |
 | Ticket Stake (min stake for a ticket) | 15 $KAVA                                                                                                                        |
 | Minimum prize                         | 1 $KAVA (\~$1.6)                                                                                                                |
-| Portal                                | [https://lottery.stake2earn.com/kava](https://lottery.stake2earn.com/kava)                                                      |
+| Portal                                | [https://lotto.tedcrypto.io/kava](https://lotto.tedcrypto.io/kava)                                                              |
 
 ### Osmosis ($OSMO)
 
