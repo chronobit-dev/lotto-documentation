@@ -78,6 +78,16 @@ They are one-of-time draws that Tedcrypto might decide to run on special dates o
 | Minimum prize                         | 0.3 $JUNO (\~$2)                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/juno](https://lotto.tedcrypto.io/juno)                                                              |
 
+### Kava ($KAVA)
+
+| Setting Name                          | Value                                                                                                                           |
+| ------------------------------------- |---------------------------------------------------------------------------------------------------------------------------------|
+| Wallet                                | [kava1n6aawnl2000ca9dqshtfsx3radd9ngh03xnf7g](https://www.mintscan.io/kava/account/kava1n6aawnl2000ca9dqshtfsx3radd9ngh03xnf7g) |
+| Validator(s)                          | Stake2Earn                                                                                                                      |
+| Ticket Stake (min stake for a ticket) | 15 $KAVA                                                                                                                        |
+| Minimum prize                         | 1 $KAVA (\~$1.6)                                                                                                                |
+| Portal                                | [https://lottery.stake2earn.com/kava](https://lottery.stake2earn.com/kava)                                                      |
+
 ### Osmosis ($OSMO)
 
 | Setting name                          | Value                                                                                                                              |
