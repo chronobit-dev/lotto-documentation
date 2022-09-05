@@ -8,19 +8,19 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Wallet                                | [akash1phskre56344dtx5k0ph9sp8n4lsjlrlgdwpv9q](https://www.mintscan.io/akash/account/akash1phskre56344dtx5k0ph9sp8n4lsjlrlgdwpv9q) |
 | Validator(s)                          | SmartNodes                                                                                                                         |
-| Ticket Stake (min stake for a ticket) | 80                                                                                                                                 |
-| Minimum prize                         | 1                                                                                                                                  |
+| Ticket Stake (min stake for a ticket) | 50 $AKT                                                                                                                            |
+| Minimum prize                         | 1 $AKT                                                                                                                             |
 | Portal                                | [https://lotto.tedcrypto.io/akash](https://lotto.tedcrypto.io/akash)                                                               |
 
 ### Agoric ($BLD)
 
-| Setting name                          | Value                                                                                                                                 |   |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | - |
-| Wallet                                | [agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4](https://bigdipper.live/agoric/accounts/agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4) |   |
-| Validator(s)                          | Stake2Earn                                                                                                                            |   |
-| Ticket Stake (min stake for a ticket) | 50 $BLD                                                                                                                               |   |
-| Minimum prize                         | 1 $BLD                                                                                                                                |   |
-| Portal                                | [https://lotto.tedcrypto.io/agoric](https://lotto.tedcrypto.io/agoric)                                                                |   |
+| Setting name                          | Value                                                                                                                                 |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Wallet                                | [agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4](https://bigdipper.live/agoric/accounts/agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4) |
+| Validator(s)                          | Stake2Earn                                                                                                                            |
+| Ticket Stake (min stake for a ticket) | 50 $BLD                                                                                                                               |
+| Minimum prize                         | 1 $BLD                                                                                                                                |
+| Portal                                | [https://lotto.tedcrypto.io/agoric](https://lotto.tedcrypto.io/agoric)                                                                |
 
 ### Bitsong ($BTSG)
 
@@ -46,7 +46,7 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 
 They are one-of-time draws that Tedcrypto might decide to run on special dates or after tweaking the settings above.
 
-&#x20;\- 08/05/2022 : Extraordinary draw for our $CRBRU delegators
+\- 08/05/2022 : Extraordinary draw for our $CRBRU delegators
 
 ### Crypto.com ($CRO)
 
@@ -81,7 +81,7 @@ They are one-of-time draws that Tedcrypto might decide to run on special dates o
 ### Kava ($KAVA)
 
 | Setting Name                          | Value                                                                                                                           |
-| ------------------------------------- |---------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | Wallet                                | [kava1n6aawnl2000ca9dqshtfsx3radd9ngh03xnf7g](https://www.mintscan.io/kava/account/kava1n6aawnl2000ca9dqshtfsx3radd9ngh03xnf7g) |
 | Validator(s)                          | Stake2Earn                                                                                                                      |
 | Ticket Stake (min stake for a ticket) | 15 $KAVA                                                                                                                        |
@@ -117,4 +117,3 @@ They are one-of-time draws that Tedcrypto might decide to run on special dates o
 | Ticket Stake (min stake for a ticket) | 500 $STARS                                                                                                                            |
 | Minimum prize                         | 50 $STARS                                                                                                                             |
 | Portal                                | [https://lotto.tedcrypto.io/stargaze](https://lotto.tedcrypto.io/stargaze)                                                            |
-
