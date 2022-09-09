@@ -18,8 +18,8 @@ Tedcrypto created a sub-system for each lotto on the different blockchains the l
 |---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4](https://bigdipper.live/agoric/accounts/agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4) |
 | Validator(s)                          | Stake2Earn                                                                                                                            |
-| Ticket Stake (min stake for a ticket) | 50 $BLD                                                                                                                               |
-| Minimum prize                         | 1 $BLD                                                                                                                                |
+| Ticket Stake (min stake for a ticket) | 45 $BLD                                                                                                                               |
+| Minimum prize                         | 1.5 $BLD (~1$)                                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/agoric](https://lotto.tedcrypto.io/agoric)                                                                |
 
 ### AssetMantle ($MNTL)
@@ -94,8 +94,8 @@ They are one-of-time draws that Tedcrypto might decide to run on special dates o
 |---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [kava1n6aawnl2000ca9dqshtfsx3radd9ngh03xnf7g](https://www.mintscan.io/kava/account/kava1n6aawnl2000ca9dqshtfsx3radd9ngh03xnf7g) |
 | Validator(s)                          | Stake2Earn                                                                                                                      |
-| Ticket Stake (min stake for a ticket) | 15 $KAVA                                                                                                                        |
-| Minimum prize                         | 1 $KAVA (\~$1.6)                                                                                                                |
+| Ticket Stake (min stake for a ticket) | 10 $KAVA                                                                                                                        |
+| Minimum prize                         | 1.5 $KAVA (\~2$)                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/kava](https://lotto.tedcrypto.io/kava)                                                              |
 
 ### Osmosis ($OSMO)
