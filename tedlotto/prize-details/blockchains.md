@@ -58,6 +58,16 @@ They are one-of-time draws that Tedcrypto might decide to run on special dates o
 
 \- 08/05/2022 : Extraordinary draw for our $CRBRU delegators
 
+### Chihuahua ($HUAHUA)
+
+| Setting name                          | Value                                                                                                                                          |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wallet                                | [chihuahua14emkz33hgduymcd7eq5e6xdqz830s4wzykn6kv](https://www.mintscan.io/chihuahua/account/chihuahua14emkz33hgduymcd7eq5e6xdqz830s4wzykn6kv) |
+| Validator(s)                          | Tedcrypto.io 🧸                                                                                                                                |                                                                                                               |
+| Ticket Stake (min stake for a ticket) | 25K $HUAHUA                                                                                                                                    |
+| Minimum prize                         | 5K $HUAHUA (~$0.5)                                                                                                                             |
+| Portal                                | [https://lotto.tedcrypto.io/chihuahua](https://lotto.tedcrypto.io/chihuahua)                                                                   |
+
 ### Crypto.com ($CRO)
 
 | Setting Name                          | Value                                                                                                                               |
