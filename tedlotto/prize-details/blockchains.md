@@ -1,6 +1,7 @@
 # Blockchains
 
-Tedcrypto created a sub-system for each lotto on the different blockchains the lotto runs on. This is to give a better experience to everyone participating whilst securing the lotto health system.
+Tedcrypto created a sub-system for each lotto on the different blockchains the lotto runs on. This is to give a better
+experience to everyone participating whilst securing the lotto health system.
 
 ### Akash ($AKT)
 
@@ -137,3 +138,17 @@ They are one-of-time draws that Tedcrypto might decide to run on special dates o
 | Ticket Stake (min stake for a ticket) | 500 $STARS                                                                                                                            |
 | Minimum prize                         | 50 $STARS                                                                                                                             |
 | Portal                                | [https://lotto.tedcrypto.io/stargaze](https://lotto.tedcrypto.io/stargaze)                                                            |
+
+### Stride($STRD)
+
+| Setting Name                          | Value                                                                                                                                 |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Wallet                                | [stride10r5dxa0awwkkk5r9kc3v577yjgmwdrcp2myzu9](https://www.mintscan.io/stride/account/stride10r5dxa0awwkkk5r9kc3v577yjgmwdrcp2myzu9) |
+| Validator(s)                          | Tedcrypto.io 🧸                                                                                                                       |
+| Ticket Stake (min stake for a ticket) | 13 $STRD (~$25)                                                                                                                       |
+| Minimum prize                         | 0.5 $STRD (~$1)                                                                                                                       |
+| Portal                                | [https://lotto.tedcrypto.io/stride](https://lotto.tedcrypto.io/stride)                                                                |
+
+**These numbers are temporary, and they might change at any time until we have more real data on the token**
+
+**Lotto is currently NOT running**
