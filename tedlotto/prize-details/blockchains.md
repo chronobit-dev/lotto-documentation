@@ -119,6 +119,16 @@ They are one-of-time draws that Tedcrypto might decide to run on special dates o
 | Minimum prize                         | 1 $OSMO (\~$1)                                                                                                                     |
 | Portal                                | [https://lotto.tedcrypto.io/osmosis](https://lotto.tedcrypto.io/osmosis)                                                           |
 
+### Secret Network ($SCRT)
+
+| Setting name                          | Value                                                                                                                                 |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Wallet                                | [secret1arfql9hv2m8nq3ssyjd0z8t4r4vh5sennn70zx](https://www.mintscan.io/secret/account/secret1arfql9hv2m8nq3ssyjd0z8t4r4vh5sennn70zx) |
+| Validator(s)                          | SmartNodes                                                                                                                            |
+| Ticket Stake (min stake for a ticket) | 20 $SCRT                                                                                                                              |
+| Minimum prize                         | 1 $SCRT                                                                                                                               |
+| Lotto link                            | [https://lotto.tedcrypto.io/secretnetwork](https://lotto.tedcrypto.io/secretnetwork)                                                  |
+
 ### Sentinel ($DVPN)
 
 | Setting name                          | Value                                                                                                                               |
