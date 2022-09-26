@@ -59,6 +59,20 @@ They are one-of-time draws that Tedcrypto might decide to run on special dates o
 
 \- 08/05/2022 : Extraordinary draw for our $CRBRU delegators
 
+### Comdex ($CMDX)
+
+| Setting name                          | Value                                                                                                                                 |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Wallet                                | [comdex10ff3jjpf7va8ajrnjkvvrp6l4udq79qsurn5lw](https://www.mintscan.io/comdex/account/comdex10ff3jjpf7va8ajrnjkvvrp6l4udq79qsurn5lw) |
+| Validator(s)                          | Tedcrypto.io 🧸                                                                                                                       |                                                                                                               |
+| Ticket Stake (min stake for a ticket) | 100 $CMDX                                                                                                                             |
+| Minimum prize                         | 5 $CMDX                                                                                                                               |
+| Portal                                | [https://lotto.tedcrypto.io/comdex](https://lotto.tedcrypto.io/comdex)                                                                |
+
+#### Notes
+
+For the first draw we will duplicate all tickets, that means that every 100 $CMDX you stake you will get 2 tickets.
+
 ### Chihuahua ($HUAHUA)
 
 | Setting name                          | Value                                                                                                                                          |
