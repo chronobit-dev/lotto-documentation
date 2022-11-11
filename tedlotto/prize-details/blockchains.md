@@ -147,7 +147,7 @@ For the first draw we will duplicate all tickets, that means that every 100 $CMD
 
 | Setting name                          | Value                                                                                                                               |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Wallet                                | [sent1q3j92zfnw9y94l9cghwzud2sdumlwszsuqfdz9](https://www.mintscan.io/sentinel/account/sent1q3j92zfnw9y94l9cghwzud2sdumlwszsuqfdz9) |
+| Wallet                                | [sent1x30p56va00rerc8qcydenmy3xwt72mawm9cydx](https://www.mintscan.io/sentinel/account/sent1x30p56va00rerc8qcydenmy3xwt72mawm9cydx) |
 | Validator(s)                          | ChronoBit                                                                                                                          |
 | Ticket Stake (min stake for a ticket) | 10K $DVPN                                                                                                                           |
 | Minimum prize                         | 1K $DVPN                                                                                                                            |
