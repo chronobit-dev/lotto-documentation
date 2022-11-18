@@ -19,7 +19,7 @@ experience to everyone participating whilst securing the lotto health system.
 |---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4](https://bigdipper.live/agoric/accounts/agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4) |
 | Validator(s)                          | Stake2Earn                                                                                                                            |
-| Ticket Stake (min stake for a ticket) | 45 $BLD                                                                                                                               |
+| Ticket Stake (min stake for a ticket) | 35 $BLD                                                                                                                               |
 | Minimum prize                         | 1.5 $BLD (~1$)                                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/agoric](https://lotto.tedcrypto.io/agoric)                                                                |
 
